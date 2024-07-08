@@ -1,5 +1,7 @@
 # Biotic Interactions Graph Analysis
 
+The entire project was carried out in collaboration with my colleague Gianmarco Fiorenza.
+
 ## Project Overview
 
 This project aims to study the properties of a graph of biotic interactions. The dataset was obtained using RGlobi and contains interactions between species in the European territory. The analysis performed on the graph includes the following steps:
